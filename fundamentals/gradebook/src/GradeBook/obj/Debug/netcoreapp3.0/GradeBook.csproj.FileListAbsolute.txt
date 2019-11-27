@@ -1,0 +1,11 @@
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.exe
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.deps.json
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.runtimeconfig.json
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.runtimeconfig.dev.json
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.dll
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.pdb
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfo.cs
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.dll
+C:\Users\loddera\plural\fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.pdb

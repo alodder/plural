@@ -1,0 +1,97 @@
+15 built in datatype
+
+
+TryParse
+    returns true/false
+    uses output parameter
+    {
+        int myInput=0;
+        if( !int.TryParse(badInput, out myInput))
+        {
+            Environment.Exit(0);
+        } else if
+
+
+    }
+
+    access modifiers defaulkt to prvate
+
+    language integrated query LInQ
+
+    .net core
+    unit tests!
+
+    dotnet retore - 
+    dotnet new -
+    dotnet build
+
+    string interpolation {}
+    debugger
+        pass args in launch.json
+    implicit typing
+        var y = 34.1
+        still strongly typed
+
+    xUnit test units
+        'arrange' setion
+        'act' section
+        'assert' section
+
+    Make code readable
+
+    smaller pieces 
+    separate Deciding from Doing
+
+
+
+
+    Value type -> address holds value
+    Reference Type -> address holds pointer
+    Public member has uppercase name. CamelCase?
+
+    C# passes by value
+    unless:
+        out and ref;
+            similar
+            C# requres out parameter to be initialized 
+
+    In C# string is actually a reference type, but like a value type
+        *Immutable
+
+    Garbage Collection
+
+
+loops
+
+do.. while
+while
+for
+foreach
+
+break;
+continue;
+goto label;
+label:
+
+switch case
+    PatternMatching
+
+Const
+readonly - write inside constructor
+
+Delegates
+    Types
+        methods, properties, fields
+
+OOP
+    Encapsulation
+    Inheritance
+        
+    Polymorphism
+        abstract
+
+    abstract class can have methods
+    Interface - no implementation
+
+    C# Non-nullable reference types
+    

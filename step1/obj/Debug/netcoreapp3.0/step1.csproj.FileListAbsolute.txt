@@ -1,0 +1,11 @@
+C:\Users\loddera\plural\step1\bin\Debug\netcoreapp3.0\step1.exe
+C:\Users\loddera\plural\step1\bin\Debug\netcoreapp3.0\step1.deps.json
+C:\Users\loddera\plural\step1\bin\Debug\netcoreapp3.0\step1.runtimeconfig.json
+C:\Users\loddera\plural\step1\bin\Debug\netcoreapp3.0\step1.runtimeconfig.dev.json
+C:\Users\loddera\plural\step1\bin\Debug\netcoreapp3.0\step1.dll
+C:\Users\loddera\plural\step1\bin\Debug\netcoreapp3.0\step1.pdb
+C:\Users\loddera\plural\step1\obj\Debug\netcoreapp3.0\step1.csprojAssemblyReference.cache
+C:\Users\loddera\plural\step1\obj\Debug\netcoreapp3.0\step1.AssemblyInfoInputs.cache
+C:\Users\loddera\plural\step1\obj\Debug\netcoreapp3.0\step1.AssemblyInfo.cs
+C:\Users\loddera\plural\step1\obj\Debug\netcoreapp3.0\step1.dll
+C:\Users\loddera\plural\step1\obj\Debug\netcoreapp3.0\step1.pdb
